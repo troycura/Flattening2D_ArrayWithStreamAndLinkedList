@@ -3,7 +3,7 @@
 
 This is how to Flatten two Dimensional Nested Array
 e.g.   int[][] nestedArray = {{3, 4, 5, 6}, {1, 2}, {7, 8, 9}};
-With the helped of API, used stream and LinkedList to Flatten a Two Nested Dimensional Array
+With the helped of API; I used stream and LinkedList to Flatten a Two Nested Dimensional Array
 
 Array must be sorted first before flattening... flattening means combining.
 
